@@ -12050,3 +12050,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.22-16.06.16:178][140]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CEC1480800), frame # 86140
 [2020.11.22-16.06.16:180][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2020.11.22-16.06.16:223][142]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.11.22-16.06.43:004][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.22-16.06.43:050][344]LogSavePackage: Moving '../../../../../../Users/roriv/Documents/GitHub/rever/MyProject4/Saved/ThirdPersonExampleMap_Auto13EFAF3E24F9391C1D33654BBF2EB982A.tmp' to '../../../../../../Users/roriv/Documents/GitHub/rever/MyProject4/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.11.22-16.06.43:053][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2020.11.22-16.06.43:053][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
